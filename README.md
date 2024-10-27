@@ -1,6 +1,6 @@
 ## Start OpenObserve server locally
 
-Start an OpenObservatory server. Follow the quick start guide [here](https://openobserve.ai/docs/quickstart/#self-hosted-installation)
+Start an OpenObserve server. Follow below steps for MacOS. For other platforms, follow the instructions follow the quick start guide [here](https://openobserve.ai/docs/quickstart/#self-hosted-installation)
 
 ```shell
 curl -L https://raw.githubusercontent.com/openobserve/openobserve/main/download.sh | sh
@@ -15,12 +15,13 @@ Once the server is running, you can access the OpenObservatory dashboard at `htt
 Clone the repository:
 
 ```shell
-git clone
+git clone https://github.com/openobserve/sample-tracing-browser
 ```
 
 Install the dependencies:
 
 ```shell
+cd sample-tracing-browser
 npm install
 ```
 
