@@ -8,7 +8,7 @@ curl -L https://raw.githubusercontent.com/openobserve/openobserve/main/download.
 ZO_ROOT_USER_EMAIL="root@example.com" ZO_ROOT_USER_PASSWORD="Complexpass#123" ./openobserve
 ```
 
-Once the server is running, you can access the OpenObservatory dashboard at `http://localhost:5080/`
+Once the server is running, you can access the OpenObserve server at `http://localhost:5080/`
 
 ## Start the app
 
