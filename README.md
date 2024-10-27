@@ -1,6 +1,6 @@
 ## Start OpenObserve server locally
 
-Start an OpenObserve server. Follow below steps for MacOS. For other platforms, follow the instructions follow the quick start guide [here](https://openobserve.ai/docs/quickstart/#self-hosted-installation)
+Start an OpenObserve server. Follow below steps for MacOS. For other platforms, follow the quick start guide [here](https://openobserve.ai/docs/quickstart/#self-hosted-installation)
 
 ```shell
 curl -L https://raw.githubusercontent.com/openobserve/openobserve/main/download.sh | sh
